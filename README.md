@@ -30,7 +30,7 @@ You will need to create a variable for each of `source`, `medium`, and `campaign
 - In `Data Layer Variable Name`, write the appropriate choice of `source`, `medium`, or `campaign`
 - Save the variable and repeat until all three variables are created
 
-![Example Source Variable](./images/sourceVariable.png)
+![Example Source Variable](./images/SourceVariable.png)
 
 ### 3. Make your GA4 Settings variable
 
