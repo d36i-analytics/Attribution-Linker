@@ -1,0 +1,5 @@
+homepage: "https://github.com/d36i-analytics/Attribution-Linker"
+documentation: "https://github.com/d36i-analytics/Attribution-Linker"
+versions:
+  - sha: 9e58fa2c1c8174541c7f356b0a6e93354939e0ff
+    changeNotes: Initial release.
